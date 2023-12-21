@@ -1,0 +1,83 @@
+/* style */
+
+.style-a {
+    background-color: purple;
+    text-align: center;
+    font-size: 30px;
+    color: aquamarine;
+    font-weight: 800px;
+    padding: 10px;
+}
+
+.style-b {
+    background-color: goldenrod;
+    text-align: center;
+    font-size: 30px;
+    color: paleturquoise;
+    font-weight: 800px;
+}
+
+.heading {
+    color: aqua;
+}
+
+a:link {
+    color: aquamarine;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  a:hover {
+    text-decoration: none;
+    color: pink;
+  }
+
+a:visited {
+    color: red;
+  }
+
+h1, p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.homebutton {
+    background-color: bisque;
+    color: #282828;
+    font-weight: bolder;
+}
+
+.card {
+  display: block;
+  width: 400px;
+  background-color: orangered;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.listitem {
+  background-color:aqua;
+  color:blanchedalmond;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.goldbutton {
+  box-sizing: border-box;
+  width: 125px;
+  height: 125px;
+  background-color: gold;
+  color: black;
+  padding: 8px 15px;
+  margin: 25px;
+}
+
+.footercard {
+  background-color:chocolate;
+  display: block;
+  width: 400px;
+  margin: 0 auto;
+}
